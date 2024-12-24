@@ -1,0 +1,22 @@
+
+.flex-container {
+    display: flex;
+    align-items:first baseline ;
+    padding-left: 20px;
+    justify-content: space-evenly;  
+
+  }
+  
+  .label{
+    padding-right: 40px;
+  }
+
+  h1{
+    background: lightblue
+
+    @keyframes{ 
+     
+      
+      
+  
+  
